@@ -1,0 +1,3 @@
+- Packet path through kernel datapath
+- Netlink behavior
+- TC flower basics
